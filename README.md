@@ -44,6 +44,6 @@ The function should return a response that contains the `start_frame` of the fir
 6. Create and swap to a new branch called `solution`.
 7. Write your code solution in `get_frames.py`. Commit your changes.
 8. *Optional* - Create and switch to a new branch called `bonus`. Add in anything else you think would be useful. Commit your changes.
-9. Record a loom video that explains your solution. Describe your thought process and any challenges or bugs you encountered, and how you solved them. If you added bonus features then explain what you added, why you added it, and how you implemented the feature. Title the loom video `Product: Python Dev Onboarding Challenge by <first_name> <last_name>`.
-11. *Optional* - Record a second loom introducing yourself to the team. Describe why you want this position, talk about past experience, and how you can add value to the team. Title the loom video `Product: Python Dev Introduction by <first_name> <last_name>`.
-12. Go to `<LINK>` and submit your application.
+9. Record a loom video that explains your solution. Describe your thought process and any challenges or bugs you encountered, and how you solved them. If you added bonus features then explain what you added, why you added it, and how you implemented the feature. Title the loom video `python_dev_challenge Code Solution by <first_name> <last_name>`.
+11. *Optional* - Record a second loom introducing yourself to the team. Describe why you want this position, talk about past experience, and how you can add value to the team. Title the loom video `Personal Introduction by <first_name> <last_name>`.
+12. Go to the [Final Materials Submission Jotform](https://form.jotform.com/231856768183065) and submit your application.
